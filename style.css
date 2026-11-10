@@ -1,6 +1,6 @@
 .contenedor-skills {
     background: linear-gradient(rgba(15, 23, 42, 0.78),
-            rgba(15, 23, 42, 0.82)) url("proyecto4.jpg");
+            rgba(15, 23, 42, 0.82)), url("proyecto4.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: #111;
